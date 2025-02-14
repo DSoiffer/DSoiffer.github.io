@@ -21,7 +21,7 @@ repository               : "dsoiffer/dsoiffer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Duncan Soiffer"
   pronouns         : # example: "she/her"  
   bio              : "Masters in Machine Learning student at CMU"
