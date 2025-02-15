@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-This page is currently under construction. If you'd like to see the full version my current resume or CV, you can send me an email!
+This page is currently under construction. If you'd like to see the full version of my current resume or CV, you can send me an email!
 
 
 Awards
 ======
-* WPI: Salisbury Prize in Computer Science: The highest honor a graduating WPI CS student can receive. 
-* WPI: Senior Math Award: Third highest honor a graduating WPI math student can receive.
-* WPI: Provost's Major Qualifying Project Award in Computer Science: Awarded to 
+* WPI Salisbury Prize in Computer Science: The highest honor a graduating WPI CS student can receive. 
+* WPI Senior Math Award: Third highest honor a graduating WPI math student can receive.
+* WPI Provost's Major Qualifying Project Award in Computer Science: Awarded to one 'best' MQP project per department.
 * MIT Lincoln Laboratory I3C Finalist and Most Futuristic Award
 
 
