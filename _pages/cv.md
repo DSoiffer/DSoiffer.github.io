@@ -9,7 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+This page is currently under construction. If you'd like to see the full version my current resume or CV, you can send me an email!
+
+
+Awards
+======
+* WPI: Salisbury Prize in Computer Science: The highest honor a graduating WPI CS student can receive. 
+* WPI: Senior Math Award: Third highest honor a graduating WPI math student can receive.
+* WPI: Provost's Major Qualifying Project Award in Computer Science: Awarded to 
+* MIT Lincoln Laboratory I3C Finalist and Most Futuristic Award
+
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

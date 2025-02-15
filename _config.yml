@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile-square.jpg"
   name             : "Duncan Soiffer"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : #"he/him" # example: "she/her"  
   bio              : "Masters in Machine Learning student at CMU"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
@@ -229,16 +229,16 @@ collections:
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: ""
