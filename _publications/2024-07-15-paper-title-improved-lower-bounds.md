@@ -1,7 +1,7 @@
 ---
 title: "Improved Lower Bounds on the Expected Length of Longest Common Subsequences"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/chvatal-sankoff-constant
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-07-15
