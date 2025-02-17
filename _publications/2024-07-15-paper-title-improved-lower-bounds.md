@@ -1,12 +1,12 @@
 ---
 title: "Improved Lower Bounds on the Expected Length of Longest Common Subsequences"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/chvatal-sankoff-constant
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-07-15
 venue: 'arXiv (preprint)'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://dsoiffer.github.io/files/MQP_seminar_slides.pptx'
 paperurl: 'https://arxiv.org/abs/2407.10925'
 # citation: 'D. Soiffer, A. Salls, C. Miller, D. Reichman, G. Sárközy, and G. T. Heineman. &quot;Improved Lower Bounds on the Expected Length of Longest Common Subsequences.&quot In: arXiv (July 2024).'
 ---

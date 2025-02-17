@@ -6,6 +6,7 @@ permalink: /publication/pfas
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2023-06-10
 venue: 'IEEE MIT URTC'
+slidesurl: 'http://dsoiffer.github.io/files/PFAS_MIT_URTC_slides.pptx'
 paperurl: 'https://doi.org/10.1109/URTC60662.2023.10534964'
 # citation: 'D. Soiffer, T. Pyorre, D. Kenney and A. Teixeira.'
 ---
