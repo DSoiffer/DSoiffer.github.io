@@ -1,13 +1,13 @@
 ---
 title: "Semantic Agreement Enables Efficient Open-Ended LLM Cascades"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/semantic-cascade
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-09-10
-venue: '(preprint)'
+date: 2025-11-07
+venue: 'EMNLP 2025'
 paperurl: 'http://dsoiffer.github.io/files/gencascade_preprint.pdf'
 # citation: 'D. Soiffer, A. Salls, C. Miller, D. Reichman, G. Sárközy, and G. T. Heineman. &quot;Improved Lower Bounds on the Expected Length of Longest Common Subsequences.&quot In: arXiv (July 2024).'
 ---
 
-This paper has been submitted to the 2025 Conference on Empirical Methods in Natural Language Processing conference (industry track), and a previous version appeared in the [ES-FoMo Workshop at ICML 2025](https://icml.cc/virtual/2025/51826).
+This [paper](https://aclanthology.org/2025.emnlp-industry.171/) has been accepted to the 2025 Conference on Empirical Methods in Natural Language Processing conference (industry track), and a previous version appeared in the [ES-FoMo Workshop at ICML 2025](https://icml.cc/virtual/2025/51826).
