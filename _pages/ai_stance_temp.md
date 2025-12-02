@@ -1,9 +1,9 @@
 ---
-permalink: /aistance
+permalink: /ai-stance
 title: "AI Stance"
 author_profile: true
 redirect_from: 
-  - /aistance
+  - /ai-stance/
 ---
 
 
