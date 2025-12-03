@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-Hi! I'm Duncan Soiffer, a 2024 - 2025 (December) Master's in Machine Learning student at Carnegie Mellon University. Previously, I was an undergraduate at Worcester Polytechnic Institute from 2020-2024, where I majored in computer science and math.
+Hi! I'm Duncan Soiffer, a 2024 - 2025 (December) Master's in Machine Learning student at Carnegie Mellon University. Previously, I was an undergraduate at Worcester Polytechnic Institute, where I majored in computer science and math.
 
-I am broadly interested in all aspects of machine learning, but especially interested in areas using theoretical insights to design (or inspire) methodology for important scientific or empirical applications, especially in representation learning and deep reinforcement learning.
+I am broadly interested in all aspects of machine learning, but especially interested in areas using theoretical insights to design (or simply inspire) methodology for important scientific or empirical applications, especially in representation learning and deep reinforcement learning.
 
 Fun fact: I have an Erdős number of 2!
 
