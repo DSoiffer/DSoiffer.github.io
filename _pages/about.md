@@ -12,7 +12,7 @@ Hi! I'm Duncan Soiffer, a 2024 - 2025 (December) Master's in Machine Learning st
 
 I am broadly interested in all aspects of machine learning, but especially interested in areas using theoretical insights to design (or simply inspire) methodology for important scientific or empirical applications, especially in representation learning and deep reinforcement learning.
 
-Fun fact: I have an Erdős number of 2!
+Fun fact: my Erdős number is 2!
 
 ### Current Projects
 
