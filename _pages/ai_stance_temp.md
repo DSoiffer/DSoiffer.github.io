@@ -9,7 +9,7 @@ redirect_from:
 
 ### Page Currently Under Construction
 
-I aim to complete this page by December 20, 2025. If you come across this page and it's not done by then, please feel free to send me a disappointed email.
+I aim to complete this page by December 23, 2025. If you come across this page and it's not done by then, please feel free to send me a disappointed email.
 
 I believe it is important for AI/ML researchers and practitioners to seriously evaluate their reasons for doing research, the impact (positive AND negative) they believe their work might have if it succeeds, and their perspective on the state of the field. On this page, I outline my own position, and I make an argument for why you should, too.
 
